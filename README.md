@@ -22,10 +22,9 @@ Based on the analysis of the Los Angeles restaurant market:
 - **Sentiment Mismatch**: Identified cases where high star ratings contained negative textual sentiment, providing a more nuanced view of restaurant performance.
 - **Actionable Guidance**: The findings help managers optimize service quality and manage value perception to enhance customer loyalty.
 
-## 📂 Project Structure
-- `Final_DineWatchdog.ipynb`: The main analytical engine and code.
-- `data/`: Directory for scraped datasets (if applicable).
-- `visualizations/`: Exported charts and Word Clouds.
+## 📂 Project Structure & Links
+- [**Final_DineWatchdog.ipynb**](./Final_DineWatchdog.ipynb): 
+  Click here to view the full technical implementation, including web scraping, NLP pipeline, and data visualizations.
 
 ## 👤 Author
 **Yu Cyuan (Ian) Huang** MS in Data Analytics | Kansas State University  
