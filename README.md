@@ -5,40 +5,43 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 ---
 
 ## 📂 Project Gallery
-1. [**DineWatchdog**](#-dinewatchdog-nlp-analysis) - Python NLP analysis for restaurant reviews.
-2. [**Taiwan ETF Strategy**](#-taiwan-etf-investment-strategy) - R-based financial analysis (Master's Thesis).
-3. [**Financial Dashboard**](#-corporate-financial-performance) - Tableau visualization.
+1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction) - Machine Learning (Classification, Regression, PCA).
+2. [**DineWatchdog**](#-dinewatchdog-nlp-analysis) - Python NLP analysis for restaurant reviews.
 
 ---
 
 ## 🔍 Project Details
-# DineWatchdog: NLP-Driven Restaurant Review Analytics
 
+### 💎 Customer Analytics & Loyalty Prediction (Machine Learning)
+[**View Jupyter Notebook (Code)**](./Huang_Y_finalproject.ipynb)
+
+#### 📌 Project Overview
+This project focuses on predicting customer loyalty levels (Premier vs. Insider) and ticket consumption for a service-based business. It utilizes advanced statistical modeling to help the company identify high-value customers and optimize marketing resource allocation.
+
+#### 🚀 Key Technical Highlights
+- **Predictive Modeling**: Developed Classification models (Random Forest/Logistic Regression) to predict membership conversion and Regression models for consumption forecasting.
+- **Dimensionality Reduction**: Applied **Principal Component Analysis (PCA)** to reduce feature noise and improve model computational efficiency.
+- **Customer Segmentation**: Analyzed demographic and behavioral data (e.g., age, income, engagement frequency) to profile "Premier" vs "Insider" users.
+- **Actionable Insights**: Identified that Premier users are significantly more responsive to mobile/email promotions, providing a clear target for marketing campaigns.
+
+#### 🛠️ Tech Stack
+- **Language**: Python
+- **Libraries**: Scikit-learn, Pandas, Matplotlib, PCA
+
+---
+
+### 🍕 DineWatchdog: NLP-Driven Restaurant Review Analytics
 [**View Jupyter Notebook (Code)**](./Final_DineWatchdog.ipynb)
 
-## 📌 Project Overview
-DineWatchdog is an end-to-end data analytics project designed to help restaurant managers in Los Angeles extract actionable insights from customer feedback. By combining **Web Scraping**, **Natural Language Processing (NLP)**, and **Sentiment Analysis**, this project identifies key service gaps that star ratings alone fail to reveal.
+#### 📌 Project Overview
+DineWatchdog is an end-to-end NLP project that scrapes and analyzes LA restaurant reviews to identify service gaps that numerical ratings fail to reveal.
 
-## 🚀 Key Features
-- **Automated Web Scraping**: Developed a custom scraper to collect real-time textual review data from restaurant listing platforms.
-- **Text Processing Pipeline**: Implemented a comprehensive NLP pipeline including tokenization, lemmatization, stopword removal, and POS tagging (focusing on nouns and adjectives).
-- **Sentiment Analysis**: Applied advanced NLP techniques to classify customer emotions and correlate them with numerical ratings.
-- **Topic Modeling & Visualization**: Generated **Word Cloud maps** to visualize recurring themes such as "wait times," "service quality," and "value perception."
+#### 🚀 Key Technical Highlights
+- **Automated Web Scraping**: Collected real-time textual data from review platforms.
+- **NLP Pipeline**: Implemented tokenization, lemmatization, and POS tagging.
+- **Sentiment Analysis**: Classified customer emotions to identify recurring pain points like "wait times" and "staff attitude."
 
-## 🛠️ Tech Stack
-- **Language**: Python
-- **Libraries**: BeautifulSoup, NLTK, Scikit-learn, Pandas, Matplotlib, WordCloud
-- **Methodology**: TF-IDF Vectorization, Sentiment Classification, Web Crawling
-
-## 📊 Key Findings & Business Value
-Based on the analysis of the Los Angeles restaurant market:
-- **Service Quality vs. Food**: Analysis revealed that issues such as **long wait times** and **inconsistent staff attitude** are primary sources of dissatisfaction, often outweighing food quality.
-- **Sentiment Mismatch**: Identified cases where high star ratings contained negative textual sentiment, providing a more nuanced view of restaurant performance.
-- **Actionable Guidance**: The findings help managers optimize service quality and manage value perception to enhance customer loyalty.
-
-## 📂 Project Structure & Links
-- [**Final_DineWatchdog.ipynb**](./Final_DineWatchdog.ipynb): 
-  Click here to view the full technical implementation, including web scraping, NLP pipeline, and data visualizations.
+---
 
 ## 👤 Author
 **Yu Cyuan (Ian) Huang** MS in Data Analytics | Kansas State University  
