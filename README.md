@@ -1,5 +1,17 @@
-# IanHuang
-MS in Data Analytics student at Kansas State University
+# Data Analytics Portfolio | Yu Cyuan (Ian) Huang
+
+Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State University, specializing in Python, R, and Tableau.
+
+---
+
+## 📂 Project Gallery
+1. [**DineWatchdog**](#-dinewatchdog-nlp-analysis) - Python NLP analysis for restaurant reviews.
+2. [**Taiwan ETF Strategy**](#-taiwan-etf-investment-strategy) - R-based financial analysis (Master's Thesis).
+3. [**Financial Dashboard**](#-corporate-financial-performance) - Tableau visualization.
+
+---
+
+## 🔍 Project Details
 # DineWatchdog: NLP-Driven Restaurant Review Analytics
 
 [**View Jupyter Notebook (Code)**](./Final_DineWatchdog.ipynb)
