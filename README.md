@@ -5,8 +5,8 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 ---
 
 ## 📂 Project Gallery
-1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction) - Machine Learning (Classification, Regression, PCA).
-2. [**DineWatchdog**](#-dinewatchdog-nlp-analysis) - Python NLP analysis for restaurant reviews.
+1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
+2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
 
 ---
 
