@@ -15,11 +15,19 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 ### 💎 Customer Analytics & Loyalty Prediction (Machine Learning)
 [**View Jupyter Notebook (Code)**](./Huang_Y_finalproject.ipynb)
 
-#### 📺 Project Walkthrough (Video)
-- [**Video Section 1 Business Intelligence**](https://youtu.be/Kf_emwlx4wM)
-- [**Video Section 2 Machine Learning**](https://youtu.be/LoTIQKyX3j4)
+#### 🎥 Project Presentation & Code Walkthrough
+To demonstrate the full analytical lifecycle of this project, I have recorded a comprehensive two-part walkthrough:
+
+- [**Video Section 1: Business Intelligence & Data Exploration**](https://youtu.be/Kf_emwlx4wM)
+  *Covers: Data cleaning, correlation analysis, and identifying key drivers of customer engagement through pivot tables and visualization.*
+
+- [**Video Section 2: Machine Learning & Dimensionality Reduction**](https://youtu.be/LoTIQKyX3j4)
+  *Covers: Implementing PCA for feature engineering, building Random Forest classification models, and evaluating regression performance for ticket forecasting.*
+
+> **Key Takeaway:** These presentations demonstrate my ability to not only build complex models but also to articulate technical findings to business stakeholders, bridging the gap between data and strategy.
 
 > **Note:** In these videos, I explain the underlying logic of the PCA dimensionality reduction and the performance comparison between the Classification and Regression models.
+
 #### 📌 Project Overview
 This project focuses on predicting customer loyalty levels (Premier vs. Insider) and ticket consumption for a service-based business. It utilizes advanced statistical modeling to help the company identify high-value customers and optimize marketing resource allocation.
 
