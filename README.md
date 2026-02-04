@@ -2,7 +2,7 @@
 MS in Data Analytics student at Kansas State University
 # DineWatchdog: NLP-Driven Restaurant Review Analytics
 
-[**View Jupyter Notebook (Code)**](./Final_DineWatchdog.ipynb) | [**View Analysis Report (HTML)**](./Final_DineWatchdog.html)
+[**View Jupyter Notebook (Code)**](./Final_DineWatchdog.ipynb)
 
 ## 📌 Project Overview
 DineWatchdog is an end-to-end data analytics project designed to help restaurant managers in Los Angeles extract actionable insights from customer feedback. By combining **Web Scraping**, **Natural Language Processing (NLP)**, and **Sentiment Analysis**, this project identifies key service gaps that star ratings alone fail to reveal.
