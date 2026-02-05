@@ -7,6 +7,7 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 ## 📂 Project Gallery
 1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
 2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
+3. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
 
 ---
 
@@ -56,6 +57,29 @@ DineWatchdog is an end-to-end NLP project that scrapes and analyzes LA restauran
 
 ---
 
-## 👤 Author
+### 📈 Taiwan ETF Investment Strategy (Quantitative Finance)
+[**View R Script (Code)**](./CAPE_Strategy_Backtest.R) 
+
+#### 📌 Project Overview
+This project, derived from my Master’s thesis, develops a systematic ETF investment strategy for the Taiwan stock market. By integrating the **Shiller PE Ratio (CAPE Ratio)** with **Moving Average (MA)** technical indicators, the study aims to filter market noise and identify robust entry/exit signals for long-term wealth management.
+
+#### 🚀 Key Technical Highlights
+- **Quantitative Backtesting**: Developed a rigorous backtesting framework in **R** to evaluate strategy performance over a 15-year period (including the 2008 Financial Crisis and the COVID-19 pandemic).
+- **Valuation Modeling**: Calculated the CAPE Ratio for the TAIEX and Taiwan 50 indices, adjusting corporate earnings for inflation to provide a normalized market valuation.
+- **Signal Engineering**: Implemented multiple Moving Average periods (MA4, MA8, MA12) to generate systematic trading signals, effectively reducing emotional bias in investment decisions.
+- **Performance Evaluation**: Compared the strategy against the "Buy & Hold" benchmark, finding that the CAPE-MA12 strategy significantly outperformed in large-cap ETFs (e.g., 0050) by minimizing drawdowns during market downturns.
+
+#### 🛠️ Tech Stack
+- **Language**: R
+- **Key Concepts**: Quantitative Backtesting, Financial Econometrics, CAPE Ratio, Moving Average, Portfolio Management
+
+---
+
+## 🛠 Technical Skills
+- **Languages**: Python (Pandas, Scikit-learn, NLTK), R (TTR, PerformanceAnalytics, Tidyverse)
+- **Visualization**: Tableau, Matplotlib, Seaborn
+- **Domain**: Financial Analysis, Quantitative Backtesting, Customer Behavior Modeling
+
+## 👤 Contact
 **Yu Cyuan (Ian) Huang** MS in Data Analytics | Kansas State University  
 [LinkedIn](https://www.linkedin.com/in/ian-ychuang)
