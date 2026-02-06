@@ -75,8 +75,11 @@ This project, derived from my Master’s thesis, develops a systematic ETF inves
 - **Key Concepts**: Quantitative Backtesting, Financial Econometrics, CAPE Ratio, Moving Average, Portfolio Management
 
 ---
+
 ### ✈️ Air Travel Safety: A Data Storytelling Approach
 [**Watch Presentation Video**](https://drive.google.com/file/d/1dhq0pZVqylfm_sR_7xjjoOyX2DNwSWOn/view?usp=drive_link)
+
+![Air Travel Safety Dashboard](./air_safety_dashboard.png)
 
 #### 📌 Overview
 Transformed 14 years of NTSB aviation incident data into a strategic narrative. Analyzed safety records through the lens of **Insurance Risk Assessment** and **Tourism Development**.
@@ -90,6 +93,8 @@ Transformed 14 years of NTSB aviation incident data into a strategic narrative. 
 ### 🍎 Apple’s Supply Chain: Financial Performance Analysis
 [**Watch Presentation Video**](https://drive.google.com/file/d/1eUzjueuxgocu1TWLkGPGZwIs5b5YPpoK/view?usp=drive_link)
 
+![Apple Supply Chain Dashboard](./apple_supply_chain.png)
+
 #### 📌 Overview
 Utilizing the **TEJ PRO** database, this project evaluates the financial health and market competitiveness of Apple’s top 10 Taiwanese suppliers (e.g., TSMC, Foxconn) from 2015 to 2025.
 
@@ -102,7 +107,7 @@ Utilizing the **TEJ PRO** database, this project evaluates the financial health 
 ## 🛠 Technical Skills
 - **Languages**: Python (Pandas, Scikit-learn, NLTK), R (TTR, PerformanceAnalytics, Tidyverse)
 - **Visualization**: Tableau, Matplotlib, Seaborn
-- **Domain**: Financial Analysis, Quantitative Backtesting, Customer Behavior Modeling
+- **Domain**: Financial Analysis, Quantitative Backtesting, Supply Chain BI
 
 ## 👤 Contact
 **Yu Cyuan (Ian) Huang** MS in Data Analytics | Kansas State University  
