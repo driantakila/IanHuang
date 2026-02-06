@@ -76,7 +76,7 @@ This project, derived from my Master’s thesis, develops a systematic ETF inves
 
 ---
 
-### ✈️ Air Travel Safety: A Data Storytelling Approach
+### ✈️ Air Travel Safety: A Data Storytelling Approach 
 [**Watch Presentation Video**](https://drive.google.com/file/d/1dhq0pZVqylfm_sR_7xjjoOyX2DNwSWOn/view?usp=drive_link)
 
 ![Air Travel Safety Dashboard](./air_safety_dashboard.png)
