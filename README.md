@@ -8,7 +8,7 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
 2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
 3. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
-4. [**Air Travel Safety: A Data Storytelling Approach**](#-air-travel-safety-a-data-storytelling-approach) - Tableau visualization.
+4. [**Air Travel Safety: A Data Storytelling Approach**](#air-travel-safety-a-data-storytelling-approach) - Tableau visualization.
 5. [**Apple’s Supply Chain: Financial Performance Analysis**](#-apples-supply-chain-financial-performance-analysis) - Business Intelligence in Tableau.
 ---
 
