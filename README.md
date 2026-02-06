@@ -8,7 +8,8 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
 2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
 3. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
-
+4. [**Air Travel Safety: A Data Storytelling Approach**](#-air-travel-safety-a-data-storytelling-approach) - Tableau visualization.
+5. [**Apple’s Supply Chain: Financial Performance Analysis**](#-apples-supply-chain-financial-performance-analysis) - Business Intelligence in Tableau.
 ---
 
 ## 🔍 Project Details
@@ -72,6 +73,29 @@ This project, derived from my Master’s thesis, develops a systematic ETF inves
 #### 🛠️ Tech Stack
 - **Language**: R
 - **Key Concepts**: Quantitative Backtesting, Financial Econometrics, CAPE Ratio, Moving Average, Portfolio Management
+
+---
+### ✈️ Air Travel Safety: A Data Storytelling Approach
+[**Watch Presentation Video**](https://drive.google.com/file/d/1dhq0pZVqylfm_sR_7xjjoOyX2DNwSWOn/view?usp=drive_link)
+
+#### 📌 Overview
+Transformed 14 years of NTSB aviation incident data into a strategic narrative. Analyzed safety records through the lens of **Insurance Risk Assessment** and **Tourism Development**.
+
+#### 🚀 Key Highlights
+- **Narrative-Driven Analysis**: Developed a "Data Story" that guides stakeholders from broad global statistics to specific regional risk clusters.
+- **Geographic Risk Mapping**: Visualized incident density to provide actionable safety ratings for corporate travel planning.
+
+---
+
+### 🍎 Apple’s Supply Chain: Financial Performance Analysis
+[**Watch Presentation Video**](https://drive.google.com/file/d/1eUzjueuxgocu1TWLkGPGZwIs5b5YPpoK/view?usp=drive_link)
+
+#### 📌 Overview
+Utilizing the **TEJ PRO** database, this project evaluates the financial health and market competitiveness of Apple’s top 10 Taiwanese suppliers (e.g., TSMC, Foxconn) from 2015 to 2025.
+
+#### 🚀 Key Highlights
+- **R&D vs. Profitability**: Quantified the correlation between Research & Development investment and net profit margins.
+- **Financial Benchmarking**: Created a comparative framework to track Revenue, EPS, and Asset Efficiency across the semiconductor sector.
 
 ---
 
