@@ -15,7 +15,7 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 ## 🔍 Project Details
 
 ### 💎 Customer Analytics & Loyalty Prediction (Machine Learning)
-[**View Jupyter Notebook (Code)**](./Huang_Y_finalproject.ipynb)
+[**View Jupyter Notebook (Code)**](./Customer_Loyalty_Segmentation_Analysis.ipynb)
 
 #### 🎥 Project Presentation & Code Walkthrough
 To demonstrate the full analytical lifecycle of this project, I have recorded a comprehensive two-part walkthrough:
