@@ -46,7 +46,7 @@ This project focuses on predicting customer loyalty levels (Premier vs. Insider)
 ---
 
 ### 🍕 DineWatchdog: NLP-Driven Restaurant Review Analytics
-[**View Jupyter Notebook (Code)**](./Final_DineWatchdog.ipynb)
+[**View Jupyter Notebook (Code)**](./DineWatchdog_NLP_Sentiment_Analysis.ipynb)
 
 #### 📌 Project Overview
 DineWatchdog is an end-to-end NLP project that scrapes and analyzes LA restaurant reviews to identify service gaps that numerical ratings fail to reveal.
