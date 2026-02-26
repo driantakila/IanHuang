@@ -78,7 +78,7 @@ This project, derived from my Master’s thesis, develops a systematic ETF inves
 ---
 
 ### 💎 AI-Driven Financial Analytics: Retail Banking & Quant Trading
-[View R Script / Code Here](./financial_analytics_portfolio.R)
+[**View R Script (Code)**](./financial_analytics_portfolio.R)
 
 **📌 Project Overview**
 This comprehensive portfolio applies Machine Learning algorithms to solve real-world financial challenges across three key domains: Retail Banking (Credit Risk), Algorithmic Trading (ETF 0050 Forecast), and Institutional Investment Behavior. 
