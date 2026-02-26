@@ -8,8 +8,9 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
 2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
 3. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
-4. [**Air Travel Safety: A Data Storytelling Approach**](#air-safety) - Tableau visualization.
-5. [**Apple’s Supply Chain: Financial Performance Analysis**](#-apples-supply-chain-financial-performance-analysis) - Business Intelligence in Tableau.
+4. [**AI-Driven Financial Analytics: Retail Banking & Quant Trading**](#-ai-driven-financial-analytics-retail-banking--quant-trading)
+5. [**Air Travel Safety: A Data Storytelling Approach**](#air-safety) - Tableau visualization.
+6. [**Apple’s Supply Chain: Financial Performance Analysis**](#-apples-supply-chain-financial-performance-analysis) - Business Intelligence in Tableau.
 ---
 
 ## 🔍 Project Details
@@ -73,6 +74,23 @@ This project, derived from my Master’s thesis, develops a systematic ETF inves
 #### 🛠️ Tech Stack
 - **Language**: R
 - **Key Concepts**: Quantitative Backtesting, Financial Econometrics, CAPE Ratio, Moving Average, Portfolio Management
+
+---
+
+### 💎 AI-Driven Financial Analytics: Retail Banking & Quant Trading
+[View R Script / Code Here](./financial_analytics_portfolio.R)
+
+**📌 Project Overview**
+This comprehensive portfolio applies Machine Learning algorithms to solve real-world financial challenges across three key domains: Retail Banking (Credit Risk), Algorithmic Trading (ETF 0050 Forecast), and Institutional Investment Behavior. 
+
+**🚀 Key Technical Highlights**
+* **Retail Banking Lead Scoring:** Developed classification models (KNN, LDA, QDA) to predict personal loan acceptance, achieving a **96.8% prediction accuracy** to optimize target marketing.
+* **Quantitative Trading Signals:** Engineered an ensemble predictive model using **Random Forest** to forecast Taiwan 50 ETF (0050) price trends based on technical indicators (MACD, Bias Ratio).
+* **Institutional Behavior Mining:** Deployed the **Apriori Algorithm** to discover hidden co-movement networks and association rules among Taiwanese equities for portfolio diversification.
+
+**🛠️ Tech Stack**
+* **Language:** R
+* **Libraries:** `caret`, `randomForest`, `arules`, `MASS`, `ggplot2`
 
 ---
 
