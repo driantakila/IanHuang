@@ -6,12 +6,12 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 
 ## 📂 Project Gallery
 1. [**ETC Performance Dashboard: Profit & Goal Tracking**](#-etc-performance-dashboard-profit--goal-tracking-system)
-1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
-2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
-3. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
-4. [**AI-Driven Financial Analytics: Retail Banking & Quant Trading**](#-ai-driven-financial-analytics-retail-banking--quant-trading)
-5. [**Air Travel Safety: A Data Storytelling Approach**](#air-safety) - Tableau visualization.
-6. [**Apple’s Supply Chain: Financial Performance Analysis**](#-apples-supply-chain-financial-performance-analysis) - Business Intelligence in Tableau.
+2. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
+3. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
+4. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
+5. [**AI-Driven Financial Analytics: Retail Banking & Quant Trading**](#-ai-driven-financial-analytics-retail-banking--quant-trading)
+6. [**Air Travel Safety: A Data Storytelling Approach**](#air-safety) - Tableau visualization.
+7. [**Apple’s Supply Chain: Financial Performance Analysis**](#-apples-supply-chain-financial-performance-analysis) - Business Intelligence in Tableau.
 ---
 
 ## 🔍 Project Details
