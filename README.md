@@ -15,6 +15,48 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 
 ## 🔍 Project Details
 
+### 🏢 ETC Performance Dashboard: Profit & Goal Tracking System
+
+[![Streamlit App](https://ianhuang-6f3juvgsad4euj6yrtdhwd.streamlit.app/)]
+
+#### 📌 Project Overview
+This project is a **cloud-hosted Business Intelligence (BI) tool** developed as a key deliverable for my **Graduate Data Analytics coursework at Kansas State University**. It is designed to streamline financial monitoring by bridging the gap between raw Excel data and executive decision-making through real-time visualizations.
+
+The core objective is to provide a clear answer to the critical business question: **"Are we reaching the profit margins and goals that we want?"**
+
+#### 🎥 Project Walkthrough & Demo
+To see the dashboard in action and understand the underlying logic, you can access the following:
+- [**Live Dashboard Link**](https://ianhuang-6f3juvgsad4euj6yrtdhwd.streamlit.app/) 
+  *Covers: Dynamic data filtering, Excel template integration, and the Profit vs. Target visualization logic.*
+
+#### 🚀 Key Technical Highlights
+- **Automated Visualization**: Engineered a system that generates **Profit Trend vs. Target Goal** charts with color-coded "Alert Zones" (Green/Red) to instantly identify performance gaps.
+- **Dynamic Data Architecture**: Implemented a multi-level filtering system (Department → Manager → Project) that reflects a complex organizational structure.
+- **Custom Goal Tracking**: Integrated a **Target Profit** feature, allowing users to define success metrics for individual projects directly within an Excel template.
+- **Cloud Deployment**: Successfully deployed to **Streamlit Cloud** with a continuous integration pipeline, ensuring the tool is accessible 24/7 without requiring local execution.
+
+#### 📊 Dashboard Architecture
+The application is organized into three strategic modules:
+1. **Business Overview (Homepage)**: Sets the context with company expertise and mission-driven content.
+2. **Performance Analytics (Departments)**: 
+   - **KPI Metrics**: Real-time calculation of Average Monthly Profit and Net Profit Margin.
+   - **Comparative Analysis**: Visual contrast between Actual Profit and Target Goals using `matplotlib` area shading.
+3. **Data Management (File Manager)**: A "Plug-and-Play" portal for uploading standardized Excel/CSV files to refresh dashboard analytics.
+
+#### 🛠️ Tech Stack
+- **Language**: Python 3.x
+- **Web Framework**: Streamlit
+- **Data Analysis**: Pandas, NumPy
+- **Visualization**: Matplotlib
+- **Cloud Hosting**: Streamlit Cloud / GitHub
+
+#### 📂 How to Use
+1. **Download the Template**: Use the `ETC_Standard_Data_v2.xlsx` provided in this repository.
+2. **Enter Project Data**: Input monthly revenue, expenses, and specific `Target_Profit` for each project.
+3. **Upload & Analyze**: Upload the file via the **File Manager** tab on the live dashboard to see instant performance insights.
+
+---
+
 ### 💎 Customer Analytics & Loyalty Prediction (Machine Learning)
 [**View Jupyter Notebook (Code)**](./Customer_Loyalty_Segmentation_Analysis.ipynb)
 
