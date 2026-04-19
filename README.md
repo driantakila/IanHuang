@@ -5,6 +5,7 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 ---
 
 ## 📂 Project Gallery
+1. [**ETC Performance Dashboard: Profit & Goal Tracking**](#-etc-performance-dashboard-profit--goal-tracking-system)
 1. [**Customer Analytics & Loyalty Prediction**](#-customer-analytics--loyalty-prediction-machine-learning)
 2. [**DineWatchdog: NLP-Driven Restaurant Review Analytics**](#-dinewatchdog-nlp-driven-restaurant-review-analytics)
 3. [**Taiwan ETF Investment Strategy (Master's Thesis)**](#-taiwan-etf-investment-strategy-quantitative-finance)
