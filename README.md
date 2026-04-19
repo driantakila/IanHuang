@@ -17,7 +17,7 @@ Welcome to my portfolio! I am a Data Analytics Master's student at Kansas State 
 
 ### 🏢 ETC Performance Dashboard: Profit & Goal Tracking System
 
-[![Streamlit App](https://ianhuang-6f3juvgsad4euj6yrtdhwd.streamlit.app/)]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ianhuang-6f3juvgsad4euj6yrtdhwd.streamlit.app/)
 
 #### 📌 Project Overview
 This project is a **cloud-hosted Business Intelligence (BI) tool** developed as a key deliverable for my **Graduate Data Analytics coursework at Kansas State University**. It is designed to streamline financial monitoring by bridging the gap between raw Excel data and executive decision-making through real-time visualizations.
